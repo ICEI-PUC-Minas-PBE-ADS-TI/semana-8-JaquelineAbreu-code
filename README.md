@@ -11,15 +11,15 @@ Nesta atividade, você irá fazer exercícios de programação com o objetivo de
 ## Prints do console do navegador
 
 <<  COLOQUE A IMAGEM - LISTAGEM DE TÍTULOS - AQUI >>
-![Listagem de Titulos][./Imagens/atv8.jpeg]
+![Listagem de Titulos](./Imagens/atv8.jpeg)
 
 <<  COLOQUE A IMAGEM - CÁLCULO DE MÉDIAS - AQUI >>
-![Calculo das Médias][./Imagens/atv8.jpeg]
+![Calculo das Médias](./Imagens/atv8.jpeg)
 
 <<  COLOQUE A IMAGEM - RESUMO DE VERIFICAÇÕES (SOME E EVERY) - AQUI >>
-![Resumo de Verificações][./Imagens/atv82.jpeg]
+![Resumo de Verificações](./Imagens/atv82.jpeg)
 
 <<  COLOQUE A IMAGEM - PÁGINA COM O RESUMO - AQUI >>
-![Resumo][./Imagens/atv82.jpeg]
+![Resumo](./Imagens/atv82.jpeg)
 
 [def]: ./Imagens/atv8.jpeg
